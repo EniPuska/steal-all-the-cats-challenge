@@ -60,6 +60,8 @@ namespace StealCatApi.Services
                     {
                         CatId = catDto.Id,
                         Image = imageBytes,
+                        Width = catDto.Width,
+                        Height = catDto.Height,
                         Created = DateTime.UtcNow
                     };
 
@@ -124,6 +126,8 @@ namespace StealCatApi.Services
             {
                 Id = cat.CatId,
                 Image = cat.Image,
+                Width = cat.Width,
+                Height = cat.Height,
                 Tags = cat.CatTags.Select(ct => new Tags
                 {
                     Name = ct.Tag.Name
@@ -155,7 +159,12 @@ namespace StealCatApi.Services
             {
                 Id = cat.CatId,
                 Image = cat.Image,
-                Tags = cat.CatTags.Select(tag => new Tags { Name = tag.Tag.Name }).ToList()
+                Width = cat.Width,
+                Height = cat.Height,
+                Tags = cat.CatTags.Select(tag => new Tags 
+                { 
+                    Name = tag.Tag.Name 
+                }).ToList()
             }).ToList();
 
             return catDtos;
