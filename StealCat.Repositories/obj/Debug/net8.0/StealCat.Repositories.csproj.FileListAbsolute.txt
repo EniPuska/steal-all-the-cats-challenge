@@ -1,0 +1,16 @@
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\bin\Debug\net8.0\StealCat.Repositories.deps.json
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\bin\Debug\net8.0\StealCat.Repositories.dll
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\bin\Debug\net8.0\StealCat.Repositories.pdb
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\bin\Debug\net8.0\StealCat.Data.dll
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\bin\Debug\net8.0\StealCat.Data.pdb
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.Repositories.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.Repositories.AssemblyInfoInputs.cache
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.Repositories.AssemblyInfo.cs
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.Repositories.sourcelink.json
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.47C22B73.Up2Date
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.Repositories.dll
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\refint\StealCat.Repositories.dll
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\StealCat.Repositories.pdb
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Repositories\obj\Debug\net8.0\ref\StealCat.Repositories.dll

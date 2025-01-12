@@ -1,0 +1,15 @@
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\bin\Debug\net8.0\StealCat.Data.deps.json
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\bin\Debug\net8.0\StealCat.Data.runtimeconfig.json
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\bin\Debug\net8.0\StealCat.Data.dll
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\bin\Debug\net8.0\StealCat.Data.pdb
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.AssemblyInfoInputs.cache
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.AssemblyInfo.cs
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.sourcelink.json
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.dll
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\refint\StealCat.Data.dll
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.pdb
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\StealCat.Data.genruntimeconfig.cache
+C:\Users\ALEX\Desktop\projects\steal-all-the-cats-challenge\StealCat.Data\obj\Debug\net8.0\ref\StealCat.Data.dll
